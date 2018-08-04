@@ -3,11 +3,11 @@ A basic version of the classic [Bomberman](https://www.retrogames.cz/play_085-NE
 
 Bomberman is an arcade-style maze-based game.
 
-![](./Screenshot 1.png)
+![](./Screenshot_1.png)
 <br><br>
-![](./Screenshot 2.png)
+![](./Screenshot_2.png)
 <br><br>
-![](./Screenshot 3.png)
+![](./Screenshot_3.png)
 ## Objective of the Game
 The player, Bomberman, must move around the maze while destroying his enemies with bombs. The maze is bound by indestructible walls. There are also some bricks that can be destroyed by bombs. The bomb will be planted at the location where the player was at the time of planting and will explode 3 frames later. The bomb will explode in the block it was planted in and to one neighbouring block on each of the four sides.
 
